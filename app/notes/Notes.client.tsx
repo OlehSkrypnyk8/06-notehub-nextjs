@@ -9,7 +9,7 @@ import NoteList from "@/components/NoteList/NoteList";
 import Pagination from "@/components/Pagination/Pagination";
 import NoteForm from "@/components/NoteForm/NoteForm";
 import Modal from "@/components/Modal/Modal";
-import SearchBox from "@/components/SearchBox/SearBox";
+import SearchBox from "@/components/SearchBox/SearchBox";
 
 import css from "@/app/notes/Notes.module.css";
 
